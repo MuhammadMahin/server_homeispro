@@ -43,7 +43,7 @@ app.get('/', (req, res) => {
   })
   
   app.listen(port, () => {
-    console.log(`Doctors App listening on port ${port}`)
+    console.log(`Camera tools listening on port ${port}`)
   })
 
 

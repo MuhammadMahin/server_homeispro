@@ -140,5 +140,5 @@ app.get('/', (req, res) => {
 })
 
 app.listen(port, () => {
-  console.log(`Homeispro listening on port ${port}`)
+  console.log(`Homeispro.com listening on port ${port}`)
 })
